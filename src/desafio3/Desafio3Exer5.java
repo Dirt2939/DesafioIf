@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Windows 10
+ * @author Rafael
  */
 public class Desafio3Exer5 {
     public static void main(String[] args) {
